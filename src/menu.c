@@ -113,6 +113,7 @@ void mx_show_menu(t_config *config) {
                 //about us
                 case 4:
                     //exit
+		    endwin();
                     exit(0);
                     break;
                 default:
