@@ -35,7 +35,7 @@ Final C Marathon project - A console videogame!
 ###### Developers
 
 - [Anton Bakaliuk](https://github.com/Tizes)
-- [Nazarii Klymok](https://github.com/knazariy)
+- [Nazarii Klymok](https://github.com/jesuisnaz)
 - [Oleksandra Stepura](https://github.com/Escander23)
 - [Pavlo Chernushenko](https://github.com/pashachernushenko)
 - [Vitaliy Buhryi](https://github.com/vbugr)
